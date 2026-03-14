@@ -173,7 +173,7 @@ int main()
 
     //  0 1 1 2 3 5 8 13 21 34 55 89 144 233 377
 
-    /*
+    
     int m;
     cout<<"Enter the value of m: ";
     cin>> m ;
@@ -188,6 +188,7 @@ int main()
 
 
 //------------------- Another way to print Fibonacci ----------------
+/*
     int num1 = 0;
     int num2 = 1;
     int n;
@@ -202,8 +203,8 @@ int main()
         num2 = num3;
 
     }
-
-    */
+*/
+    
 
     //------------- Cyclically Rotate Array by One / Right Rotate -------------
 
@@ -283,6 +284,8 @@ int main()
 
     // ------------ Missing Number from Array --------------- Iterative Method ------------
 
+    /*
+
     int arr[10] = {1,8,9,6,2,5,7,4,3};
     
     for(int i=1; i<=10; i++){
@@ -299,7 +302,7 @@ int main()
         }
     }
 
-
+*/
 
 
 }

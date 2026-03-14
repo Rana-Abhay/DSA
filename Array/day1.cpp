@@ -180,12 +180,15 @@ int main()
     // cout<<"Sum on n Natural numbers is: "<<n*(n+1)/2<<endl;
 
 
-    //  ----XOR Operation -------- Bit Wise XOR 
-    // int a = 5;
-    // int b = 6;
+    //  ----XOR Operation -------- Bit Wise XOR , OR , AND 
+    int a = 5;
+    int b = 6;
     //  int result = a ^ b;
     //  cout<< result<<endl;
     //  cout<< (5 ^ 5)<<endl;
+
+    // cout<<(a & b)<<endl;
+    // cout<<(a | b)<<endl;
 
 
     // Find the missing Element 
@@ -200,6 +203,7 @@ int main()
     cout<<"Missing number is: "<< ans<<endl;
 
     // ---------------------
+    cout<<INT_MAX<< "  "<< INT_MIN;
 
 
 
